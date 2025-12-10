@@ -1,3 +1,9 @@
+git init
+git add .
+git commit -m "Первая версия сайта"
+git branch -M main
+git remote add origin https://github.com/ваш-логин/репозиторий.git
+git push -u origin main
 my-telegram-site/
 ├── index.html
 ├── style.css
